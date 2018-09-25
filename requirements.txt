@@ -1,0 +1,8 @@
+numpy==1.14.2
+numpydoc==0.7.0
+pandas==0.22.0
+pandas-summary==0.0.5
+sklearn-pandas==1.6.0
+torch==0.4.0
+torchtext==0.2.3
+torchvision==0.2.1
